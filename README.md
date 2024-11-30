@@ -1,5 +1,3 @@
-# Cafe_Management_System
-
 The Cafe Management System is a Python-based desktop application designed to streamline and simplify the billing and order management process in cafes. Built using the Tkinter library, the system offers a user-friendly interface for both customers and cafe staff.
 
 #Key Features:#
